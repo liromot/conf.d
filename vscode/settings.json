@@ -1,0 +1,31 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.navigationControl.enabled": false,
+    "window.commandCenter": false,
+    "workbench.openInAgents.enabled": false,
+    "workbench.browser.showInTitleBar": false,
+    "workbench.editor.showTabs": "single",
+    "workbench.editor.showIcons": false,
+    "workbench.editor.labelFormat": "medium",
+    "breadcrumbs.enabled": false,
+    "workbench.colorTheme": "Dark Modern",
+    "git.enableSmartCommit": true,
+    "css.customData": ["~/.config/Code/User/css/tailwind.json"],
+    "json.schemaDownload.trustedDomains": {
+        "https://biomejs.dev": true,
+        "https://developer.microsoft.com/json-schemas/": true,
+        "https://json-schema.org/": true,
+        "https://json.schemastore.org/": true,
+        "https://raw.githubusercontent.com/devcontainers/spec/": true,
+        "https://raw.githubusercontent.com/microsoft/vscode/": true,
+        "https://schemastore.azurewebsites.net/": true,
+        "https://spec.openapis.org/": true,
+        "https://ui.shadcn.com": true,
+        "https://www.schemastore.org/": true
+    },
+    "chat.disableAIFeatures": true,
+    "bookmarks.navigateThroughAllFiles": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "network.meteredConnection": "off",
+    "git.confirmSync": false
+}

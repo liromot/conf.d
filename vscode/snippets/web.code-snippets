@@ -1,0 +1,20 @@
+{
+	"Print to console": {
+		"scope": "javascript,typescript",
+		"prefix": "clog",
+		"body": ["console.log('$1');", "$2"],
+		"description": "Log output to console!!!"
+	},
+	"Error to console": {
+		"scope": "javascript,typescript",
+		"prefix": "elog",
+		"body": ["console.error('$1');", "$2"],
+		"description": "Log error to console"
+	},
+	"Create async arrow function": {
+		"scope": "javascript,typescript",
+		"prefix": "a=>",
+		"body": ["async () => {\n\t$1\n}"],
+		"description": "Create async arrow function"
+	}
+}
