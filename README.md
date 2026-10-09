@@ -2,7 +2,7 @@
 Config files for tmux, nvim, vscode etc.
 
 ```shell
-git@github.com:liromot/conf.d.git
+git clone git@github.com:liromot/conf.d.git
 cd conf.d
 ```
 
